@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63d8bdbe.css",
+    "main.js": "/static/js/main.0fe16877.js",
+    "static/js/787.37faa4c4.chunk.js": "/static/js/787.37faa4c4.chunk.js",
+    "static/media/roshith1.jpg": "/static/media/roshith1.330465866fc211a44db9.jpg",
+    "static/media/anek-malayalam-malayalam-400-normal.woff": "/static/media/anek-malayalam-malayalam-400-normal.1cd9b277b376c30c9d4f.woff",
+    "static/media/anek-malayalam-malayalam-400-normal.woff2": "/static/media/anek-malayalam-malayalam-400-normal.265f6c4e092857db4925.woff2",
+    "static/media/anek-malayalam-latin-400-normal.woff": "/static/media/anek-malayalam-latin-400-normal.fffaf4c5f81a09a36503.woff",
+    "static/media/open-sans-latin-400-normal.woff2": "/static/media/open-sans-latin-400-normal.2e11868c8988e285301c.woff2",
+    "static/media/open-sans-cyrillic-ext-400-normal.woff2": "/static/media/open-sans-cyrillic-ext-400-normal.bc843a7cafaf78645470.woff2",
+    "static/media/open-sans-latin-400-normal.woff": "/static/media/open-sans-latin-400-normal.dc4c5aab7398c3c5eaf9.woff",
+    "static/media/anek-malayalam-latin-400-normal.woff2": "/static/media/anek-malayalam-latin-400-normal.ddab1ebff4d2a9e9e8a4.woff2",
+    "static/media/open-sans-cyrillic-ext-400-normal.woff": "/static/media/open-sans-cyrillic-ext-400-normal.f81b7046d597c3779ef5.woff",
+    "static/media/open-sans-latin-ext-400-normal.woff2": "/static/media/open-sans-latin-ext-400-normal.3399b9b51ad9e0310e9b.woff2",
+    "static/media/open-sans-latin-ext-400-normal.woff": "/static/media/open-sans-latin-ext-400-normal.493c63e118b8888771e2.woff",
+    "static/media/open-sans-cyrillic-400-normal.woff2": "/static/media/open-sans-cyrillic-400-normal.e63f3335dabcaf300c0f.woff2",
+    "static/media/open-sans-greek-400-normal.woff2": "/static/media/open-sans-greek-400-normal.6eecb5759022fdcc7fc8.woff2",
+    "static/media/open-sans-cyrillic-400-normal.woff": "/static/media/open-sans-cyrillic-400-normal.0c8c714e732400e161d8.woff",
+    "static/media/open-sans-vietnamese-400-normal.woff2": "/static/media/open-sans-vietnamese-400-normal.87848962b44ea3a2785b.woff2",
+    "static/media/open-sans-hebrew-400-normal.woff2": "/static/media/open-sans-hebrew-400-normal.376e7092ac529a3bc1f5.woff2",
+    "static/media/open-sans-greek-400-normal.woff": "/static/media/open-sans-greek-400-normal.73b1eebdb5806c04a3a2.woff",
+    "static/media/open-sans-vietnamese-400-normal.woff": "/static/media/open-sans-vietnamese-400-normal.f7e4cfcd39e3bfd25f24.woff",
+    "static/media/open-sans-hebrew-400-normal.woff": "/static/media/open-sans-hebrew-400-normal.09ea20d560d22f566570.woff",
+    "static/media/open-sans-greek-ext-400-normal.woff2": "/static/media/open-sans-greek-ext-400-normal.a385f5806ae1d9de1071.woff2",
+    "static/media/anek-malayalam-latin-ext-400-normal.woff": "/static/media/anek-malayalam-latin-ext-400-normal.f64a84b6d37452fe984c.woff",
+    "static/media/anek-malayalam-latin-ext-400-normal.woff2": "/static/media/anek-malayalam-latin-ext-400-normal.d5728e8aa49b40147657.woff2",
+    "static/media/open-sans-greek-ext-400-normal.woff": "/static/media/open-sans-greek-ext-400-normal.39c5d023bfb5adeca750.woff",
+    "index.html": "/index.html",
+    "main.63d8bdbe.css.map": "/static/css/main.63d8bdbe.css.map",
+    "main.0fe16877.js.map": "/static/js/main.0fe16877.js.map",
+    "787.37faa4c4.chunk.js.map": "/static/js/787.37faa4c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63d8bdbe.css",
+    "static/js/main.0fe16877.js"
+  ]
+}
