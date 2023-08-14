@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.63d8bdbe.css",
-    "main.js": "/static/js/main.3bf1c3c2.js",
+    "main.js": "/static/js/main.adb053fa.js",
     "static/js/787.37faa4c4.chunk.js": "/static/js/787.37faa4c4.chunk.js",
     "static/media/roshith1.jpg": "/static/media/roshith1.7c74c75c932bda7ba0bc.jpg",
     "static/media/anek-malayalam-malayalam-400-normal.woff": "/static/media/anek-malayalam-malayalam-400-normal.1cd9b277b376c30c9d4f.woff",
@@ -28,11 +28,11 @@
     "static/media/open-sans-greek-ext-400-normal.woff": "/static/media/open-sans-greek-ext-400-normal.39c5d023bfb5adeca750.woff",
     "index.html": "/index.html",
     "main.63d8bdbe.css.map": "/static/css/main.63d8bdbe.css.map",
-    "main.3bf1c3c2.js.map": "/static/js/main.3bf1c3c2.js.map",
+    "main.adb053fa.js.map": "/static/js/main.adb053fa.js.map",
     "787.37faa4c4.chunk.js.map": "/static/js/787.37faa4c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63d8bdbe.css",
-    "static/js/main.3bf1c3c2.js"
+    "static/js/main.adb053fa.js"
   ]
 }
