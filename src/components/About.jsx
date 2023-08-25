@@ -1,7 +1,7 @@
 import React from 'react'
 import "@fontsource/open-sans";
 import "@fontsource/anek-malayalam"
-import Roshith1 from "./roshith1.jpg"
+import Roshith1 from "../images/roshith1.jpg"
 import    { Box, 
             Typography,
             Stack, 
