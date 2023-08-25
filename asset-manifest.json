@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.63d8bdbe.css",
-    "main.js": "/static/js/main.adb053fa.js",
+    "main.js": "/static/js/main.02936e02.js",
     "static/js/787.37faa4c4.chunk.js": "/static/js/787.37faa4c4.chunk.js",
     "static/media/roshith1.jpg": "/static/media/roshith1.7c74c75c932bda7ba0bc.jpg",
     "static/media/anek-malayalam-malayalam-400-normal.woff": "/static/media/anek-malayalam-malayalam-400-normal.1cd9b277b376c30c9d4f.woff",
@@ -24,15 +24,16 @@
     "static/media/open-sans-hebrew-400-normal.woff": "/static/media/open-sans-hebrew-400-normal.09ea20d560d22f566570.woff",
     "static/media/open-sans-greek-ext-400-normal.woff2": "/static/media/open-sans-greek-ext-400-normal.a385f5806ae1d9de1071.woff2",
     "static/media/anek-malayalam-latin-ext-400-normal.woff": "/static/media/anek-malayalam-latin-ext-400-normal.f64a84b6d37452fe984c.woff",
+    "static/media/bg8.avif": "/static/media/bg8.56f954f2b93d6393bb5e.avif",
     "static/media/anek-malayalam-latin-ext-400-normal.woff2": "/static/media/anek-malayalam-latin-ext-400-normal.d5728e8aa49b40147657.woff2",
     "static/media/open-sans-greek-ext-400-normal.woff": "/static/media/open-sans-greek-ext-400-normal.39c5d023bfb5adeca750.woff",
     "index.html": "/index.html",
     "main.63d8bdbe.css.map": "/static/css/main.63d8bdbe.css.map",
-    "main.adb053fa.js.map": "/static/js/main.adb053fa.js.map",
+    "main.02936e02.js.map": "/static/js/main.02936e02.js.map",
     "787.37faa4c4.chunk.js.map": "/static/js/787.37faa4c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63d8bdbe.css",
-    "static/js/main.adb053fa.js"
+    "static/js/main.02936e02.js"
   ]
 }
