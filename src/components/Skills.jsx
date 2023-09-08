@@ -42,7 +42,7 @@ const Skills = () => {
                   </TableRow>
                   <TableRow>
                     <TableCell align="Left" sx={{fontSize:{lg:'1vw'}}}>Libraries</TableCell>
-                    <TableCell align="center" sx={{fontSize:{lg:'1vw'}}}>Material UI, Redux, React-Storybook, React Query</TableCell>
+                    <TableCell align="center" sx={{fontSize:{lg:'1vw'}}}>Material UI, Redux, React Query</TableCell>
                   </TableRow> 
                   <TableRow>
                     <TableCell align="Left" sx={{fontSize:{lg:'1vw'}}}>Back End Languages</TableCell>
@@ -62,7 +62,7 @@ const Skills = () => {
                   </TableRow>   
                   <TableRow>
                     <TableCell align="Left" sx={{fontSize:{lg:'1vw'}}}>Additional Languages</TableCell>
-                    <TableCell align="center" sx={{fontSize:{lg:'1vw'}}}>Basic Python, Basic TypeScript</TableCell>
+                    <TableCell align="center" sx={{fontSize:{lg:'1vw'}}}>Basic Python, TypeScript</TableCell>
                   </TableRow>
                   <TableRow>
                     <TableCell align="Left" sx={{fontSize:{lg:'1vw'}}}>Operating Systems</TableCell>
@@ -77,8 +77,6 @@ const Skills = () => {
               </Table>
             </TableContainer>
           </Paper>
-                
-
         </Box>
   )
 }

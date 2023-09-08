@@ -11,8 +11,8 @@ import    { Box,
 const About = () => {
 
   return (
-        <Box component="div" 
-              sx={{
+        <Box component="div"
+             sx={{
                 height:'70%',
                 width:'100%',
                 // backgroundColor:'#DAC0A3',
@@ -33,7 +33,9 @@ const About = () => {
                 </Stack>
 
                 <Stack width='70%' height='100%'>
-                    <Paper elevation={10} sx={{
+                    <Paper
+                        elevation={10} 
+                        sx={{
                         height:'100%',
                         width:'80%',
                         padding:'5%',
