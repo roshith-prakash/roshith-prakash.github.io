@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b7d0ff62.css",
-    "main.js": "/static/js/main.251a9ccd.js",
+    "main.js": "/static/js/main.45754f08.js",
     "static/js/787.37faa4c4.chunk.js": "/static/js/787.37faa4c4.chunk.js",
     "static/media/GridBoxVideo.mp4": "/static/media/GridBoxVideo.74ddfdfb2a7479d014c2.mp4",
     "static/media/gridbox.png": "/static/media/gridbox.4060fa707c2256af9578.png",
@@ -35,11 +35,11 @@
     "static/media/open-sans-greek-ext-400-normal.woff": "/static/media/open-sans-greek-ext-400-normal.39c5d023bfb5adeca750.woff",
     "index.html": "/index.html",
     "main.b7d0ff62.css.map": "/static/css/main.b7d0ff62.css.map",
-    "main.251a9ccd.js.map": "/static/js/main.251a9ccd.js.map",
+    "main.45754f08.js.map": "/static/js/main.45754f08.js.map",
     "787.37faa4c4.chunk.js.map": "/static/js/787.37faa4c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7d0ff62.css",
-    "static/js/main.251a9ccd.js"
+    "static/js/main.45754f08.js"
   ]
 }
